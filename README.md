@@ -11,6 +11,7 @@ We would love to see how you use this awesome admin template. You can notify us 
 ## Theme Demo
 ![Gentelella Bootstrap Admin Template](https://cdn.colorlib.com/wp/wp-content/uploads/sites/2/gentelella-admin-template-preview.jpg 
 "Gentelella Theme Browser Preview")
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FiFgR%2Fgentelella.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FiFgR%2Fgentelella?ref=badge_shield)
 
 **[Template Demo](https://colorlib.com/polygon/gentelella/index.html)**
 
@@ -123,3 +124,6 @@ Let us know if you have done integration for this admin template on other platfo
 Gentelella is licensed under The MIT License (MIT). Which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software. But you always need to state that Colorlib is the original author of this template.
 
 Project is developed and maintained by [Colorlib](https://colorlib.com/ "Colorlib - Make Your First Blog") and Aigars Silkalns
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FiFgR%2Fgentelella.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FiFgR%2Fgentelella?ref=badge_large)
